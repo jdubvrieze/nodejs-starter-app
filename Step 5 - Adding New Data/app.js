@@ -26,6 +26,7 @@ app.use(express.static('public'));
 
 /*
     ROUTES
+    
 */
 
 // GET ROUTES
